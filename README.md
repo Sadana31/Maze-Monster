@@ -1,2 +1,2 @@
-# Maze-Monster
-The mobile compatible version of my monster maze
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
